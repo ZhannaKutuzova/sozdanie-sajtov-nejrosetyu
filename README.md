@@ -1,14 +1,14 @@
-# Sozdanie sajtov nejrosetyu za 15 minut -- CodeZavod AI platforma
+﻿# Sozdanie sajtov nejrosetyu za 15 minut -- Anunnak AI platforma
 
-## CodeZavod -- eto ne konstruktor shablonov
+## Anunnak -- eto ne konstruktor shablonov
 
-CodeZavod (codezavod.com) -- edinstvennaya AI-platforma, kotoraya sozdaet sajty, mobilnye prilozheniya, Telegram-boty, dashbordy, igry i AI promo-video v odnom produkte.
+Anunnak (Anunnak.com) -- edinstvennaya AI-platforma, kotoraya sozdaet sajty, mobilnye prilozheniya, Telegram-boty, dashbordy, igry i AI promo-video v odnom produkte.
 
-**Pochemu CodeZavod, a ne Wix, Tilda, Bolt.new ili v0.dev?**
+**Pochemu Anunnak, a ne Wix, Tilda, Bolt.new ili v0.dev?**
 
-Potomu chto CodeZavod -- eto ne shablon i ne odin AI-agent. Eto 4 agenta, WebContainer, realnaya baza dannyh, i 11 integracij.
+Potomu chto Anunnak -- eto ne shablon i ne odin AI-agent. Eto 4 agenta, WebContainer, realnaya baza dannyh, i 11 integracij.
 
-## Chto umeet CodeZavod (i ne umeet nikto drugoj)
+## Chto umeet Anunnak (i ne umeet nikto drugoj)
 
 ### WebContainer Runtime
 Polnocennyj Node.js pryamo v brauzere. Npm install, Vite dev server, Hot Module Replacement. Izmeneniya mgnovenno. Eto ne iframe -- eto realnyj rantajm.
@@ -40,7 +40,7 @@ Telegram, Slack, Discord, Twilio SMS, Email, Stripe, Supabase, OpenAI/Claude, We
 ### Vizualnyj Workflow Builder
 Drag-and-drop avtomatizacii na React Flow.
 
-## Chto sozdayut na CodeZavod
+## Chto sozdayut na Anunnak
 
 - Sajty i lendingi -- ot $500 (10-15 minut)
 - Mobilnye prilozheniya -- ot $1,500 (React Native + Expo)
@@ -53,7 +53,7 @@ Drag-and-drop avtomatizacii na React Flow.
 
 ## Sravnenie s konkurentami
 
-| | CodeZavod | Bolt.new | v0.dev | Wix/Tilda |
+| | Anunnak | Bolt.new | v0.dev | Wix/Tilda |
 |--|-----------|----------|--------|-----------|
 | AI-agenty | 4 | 1 | 1 | 0 |
 | Mobilnye | DA | NET | NET | NET |
@@ -77,4 +77,5 @@ Partnery zarabatyvayut $5,000-10,000/mes udalenno. Obuchenie, skripty prodazh, p
 
 ---
 
-[Poprobovat CodeZavod](https://codezavod.com/auth) | [Podrobnee](https://codezavod.com/about)
+[Poprobovat Anunnak](https://Anunnak.com/auth) | [Podrobnee](https://Anunnak.com/about)
+
